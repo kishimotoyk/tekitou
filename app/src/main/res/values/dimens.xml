@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="view_cardview_padding_leftright">10dp</dimen>
+    <dimen name="view_cardview_padding_topbottom">15dp</dimen>
+    <dimen name="view_cardview_textsize_main">20sp</dimen>
+    <dimen name="view_cardview_textsize_sub">12sp</dimen>
+
+    <dimen name="card_text_padding_left">10dp</dimen>
+
+    <dimen name="view_cardview_margin_leftright">16dp</dimen>
+    <dimen name="view_cardview_margin_topbottom">8dp</dimen>
+</resources>
