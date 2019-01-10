@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">tekitou</string>
+    <string name="app_name">memo</string>
     <string-array name="dummy">
         <item>北海道</item>
         <item>青森県</item>
